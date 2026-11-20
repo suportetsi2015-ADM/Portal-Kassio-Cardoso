@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "COMUNIDADE EM AÇÃO - Portal do Amazonas",
+  "short_name": "Comunidade",
+  "description": "Portal jornalístico comunitário do Amazonas idealizado por Kássio Cardoso. A notícia nasce na comunidade.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/images/avatar_kassio_cardoso_1791649510274.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/claquete_comunidade_em_acao_1791659081150.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

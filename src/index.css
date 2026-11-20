@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-editorial: 'Fraunces', Georgia, serif;
+    --font-prose: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-prose);
+    color: #1e293b;
+    background-color: #f8fafc;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-editorial);
+  }
+}
+
+/* Custom scrollbar and accessibility focus styles */
+:focus-visible {
+  outline: 2px solid #0f3d59;
+  outline-offset: 2px;
+}

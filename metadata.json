@@ -1,0 +1,6 @@
+{
+  "name": "COMUNIDADE EM AÇÃO - Portal de Notícias do Amazonas",
+  "description": "Portal jornalístico comunitário do Amazonas idealizado por Kássio Cardoso. A notícia nasce na comunidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
